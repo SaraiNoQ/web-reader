@@ -1,5 +1,3 @@
-在线地址 http://alanskycn.gitee.io/vip/reader/
-
 ## 具体实现
 
 使用 Vue2 开发
